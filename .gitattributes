@@ -1,0 +1,5 @@
+# Unity settings
+*.unity binary
+*.prefab binary
+*.asset binary
+
